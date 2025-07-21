@@ -41,30 +41,6 @@ A smart campus transit solution that streamlines shuttle operations and provides
 - **Frontend:** HTML, Bootstrap 4, jQuery
 - **Build Tool:** Graddle
 
----
-
-## Project Structure
-
-```plaintext
-ShuttleManagementSystem/
-├── src/
-│   ├── main/
-│   │   ├── java/com/shuttle/SMS/
-│   │   │   ├── config/                  # Configuration (e.g., security)
-│   │   │   ├── controller/              # REST controllers (UserController, BookingController, WalletController, etc.)
-│   │   │   ├── dto/                     # Data Transfer Objects (UserRegistrationDTO, LoginDTO, UserWalletResponseDTO, etc.)
-│   │   │   ├── model/                   # JPA Entities (User, Booking, Route, Shuttle, Stop, etc.)
-│   │   │   ├── repository/              # Spring Data JPA repositories
-│   │   │   ├── service/                 # Business logic services (UserService, BookingService, RouteOptimizationService, etc.)
-│   │   │   └── ShuttleManagementSystemApplication.java  # Main Spring Boot Application
-│   ├── resources/
-│   │   ├── application.properties       # Application configuration (DB connection, etc.)
-│   │   ├── data.sql                     # SQL script for database seeding (sample data for stops, shuttles, routes, bookings, etc.)
-│   │   └── static/
-│   │       ├── index.html               # Frontend landing page and UI
-│   │       └── index.js                 # Custom JavaScript for the UI
-├── pom.xml                              # Maven configuration and dependencies
-└── README.md                            # This file
 
 ```
 # API Endpoints Overview
