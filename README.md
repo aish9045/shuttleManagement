@@ -9,11 +9,6 @@ A smart campus transit solution that streamlines shuttle operations and provides
 - [Features](#features)
 - [Technologies](#technologies)
 - [Project Structure](#project-structure)
-- [API Endpoints and Sample JSON](#api-endpoints-and-sample-json)
-- [Database Seeding](#database-seeding)
-- [Getting Started](#getting-started)
-- [Demo](#demo)
-- [License](#license)
 
 ---
 
