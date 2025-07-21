@@ -15,7 +15,7 @@ A smart campus transit solution that streamlines shuttle operations and provides
 ## Features
 
 - **User Registration & Login:**  
-  - Students register using their university email (ending with `@lpu.in`).  
+  - Students register using their university email (ending with `@glbitm.ac.in`).  
   - Every new student is given a default wallet balance of 100 rupees.
 - **Wallet Management:**  
   - Students can view their wallet balance.  
