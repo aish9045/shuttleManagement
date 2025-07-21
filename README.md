@@ -8,7 +8,7 @@ A smart campus transit solution that streamlines shuttle operations and provides
 
 - [Features](#features)
 - [Technologies](#technologies)
-- [Project Structure](#project-structure)
+
 
 ---
 
